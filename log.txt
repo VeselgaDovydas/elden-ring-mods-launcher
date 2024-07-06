@@ -1,0 +1,32 @@
+2024-07-06 20:03:56 - STARTED with arguments: --mods
+2024-07-06 20:03:56 - Launch normal
+2024-07-06 20:03:56 - File handler
+2024-07-06 20:03:56 - Processing file: dxgi.dll, filedir /media/M2SSD/SteamLibrary/steamapps/common/ELDEN RING/Game/dxgi.dll
+2024-07-06 20:03:56 - file not found, enabled: off, mode: --mods
+2024-07-06 20:03:56 - Processing file finished: /media/M2SSD/SteamLibrary/steamapps/common/ELDEN RING/Game/dxgi.dll
+2024-07-06 20:03:56 - Processing file: ERSS2.dll, filedir /media/M2SSD/SteamLibrary/steamapps/common/ELDEN RING/Game/ERSS2.dll
+2024-07-06 20:03:56 - file not found, enabled: off, mode: --mods
+2024-07-06 20:03:56 - Processing file finished: /media/M2SSD/SteamLibrary/steamapps/common/ELDEN RING/Game/ERSS2.dll
+2024-07-06 20:03:56 - Directory Handler
+2024-07-06 20:03:56 - Finished handler
+2024-07-06 20:05:38 - STARTED with arguments: --mods
+2024-07-06 20:05:38 - Launch normal
+2024-07-06 20:05:38 - File handler
+2024-07-06 20:05:38 - Processing file: dxgi.dll, filedir /media/M2SSD/SteamLibrary/steamapps/common/ELDEN RING/Game/dxgi.dll
+2024-07-06 20:05:38 - file not found, enabled: off, mode: --mods
+2024-07-06 20:05:38 - Processing file finished: /media/M2SSD/SteamLibrary/steamapps/common/ELDEN RING/Game/dxgi.dll
+2024-07-06 20:05:38 - Processing file: ERSS2.dll, filedir /media/M2SSD/SteamLibrary/steamapps/common/ELDEN RING/Game/ERSS2.dll
+2024-07-06 20:05:38 - file not found, enabled: off, mode: --mods
+2024-07-06 20:05:38 - Processing file finished: /media/M2SSD/SteamLibrary/steamapps/common/ELDEN RING/Game/ERSS2.dll
+2024-07-06 20:05:38 - Directory Handler
+2024-07-06 20:05:38 - Finished handler
+2024-07-06 20:08:10 - Launch normal
+2024-07-06 20:08:10 - File handler start
+2024-07-06 20:08:10 - Directory Handler
+2024-07-06 20:08:10 - Finished handler
+2024-07-06 20:09:02 - Starting game
+2024-07-06 20:16:22 - Launch normal
+2024-07-06 20:16:22 - File handler start
+2024-07-06 20:16:22 - Directory Handler
+2024-07-06 20:16:22 - Finished handler
+2024-07-06 20:17:13 - Starting game

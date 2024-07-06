@@ -1,0 +1,7 @@
+dxgi.dll
+ERSS2.dll
+ERSS2/bin/ffx_backend_dx12_x64.dll
+ERSS2/bin/ffx_cas_x64.dll
+ERSS2/bin/ffx_fsr3upscaler_x64.dll
+ERSS2/bin/libxess.dll
+ERSS2/bin/nvngx_dlss.dll
